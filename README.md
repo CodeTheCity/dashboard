@@ -1,3 +1,8 @@
+A fork of the ODI Leeds Dashboard
+
+A work in progress for now.
+========================
+
 # ODI Leeds dashboard
 
 A simple dashboard created for ODI Leeds. The dashboard has no external dependencies and reads data from CSV files located on the same server. It uses HTML, CSS and Javascript.
